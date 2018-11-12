@@ -1,6 +1,7 @@
 # Hello I'm Jurne
 
-My project is my project.
+Mijn project is een component calculator
 
-what? resistorcalculator
-why? because the most person don't know 
+wat? elektronisch component calculatro
+waarom? dit gaat de mensen het makkelijker maken om de juiste componenten te gebruiken.
+       want ze moeten gewoon waarden invullen die gevraagd zijn en niet de formule opzoeken
